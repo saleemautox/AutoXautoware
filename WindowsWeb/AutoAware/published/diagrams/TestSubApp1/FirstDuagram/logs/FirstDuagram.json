@@ -1,0 +1,131 @@
+{
+  "spiderLogs" : [ {
+    "dateTime" : "2023/04/18 12:11:09",
+    "message" : "Initiated Logger.",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:11:09",
+    "message" : "Initiated AutoAware for url : https://tiecheusa.com/website/test-automation-solutions/ , with an active thread count of 1",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:11:09",
+    "message" : "AutoAware initiate request received for url:https://tiecheusa.com/website/test-automation-solutions/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:11:20",
+    "message" : "[Task-0]-New Page Created with no of objects :128 Page Name : TEST AUTOMATION SOLUTIONS – TIECHE Inc with URL : https://tiecheusa.com/website/test-automation-solutions/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:11:29",
+    "message" : "[Task-1]-New Page Created with no of objects :135 Page Name : TIECHE Inc – Ingenuity in automation with URL : https://tiecheusa.com/website/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:11:36",
+    "message" : "[Task-2]- Page already exists: Do not save.TIECHE Inc – Ingenuity in automation and : https://tiecheusa.com/website/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:11:42",
+    "message" : "[Task-3]-New Page Created with no of objects :127 Page Name : ABOUT US – TIECHE Inc with URL : https://tiecheusa.com/website/about-us/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:11:49",
+    "message" : "[Task-4]-New Page Created with no of objects :131 Page Name : WHAT WE DO – TIECHE Inc with URL : https://tiecheusa.com/website/whatwedo/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:11:56",
+    "message" : "[Task-5]-New Page Created with no of objects :141 Page Name : SMART BUILDING SOLUTIONS – TIECHE Inc with URL : https://tiecheusa.com/website/facility-automation-solutions-2/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:12:03",
+    "message" : "[Task-6]- Page already exists: Do not save.TEST AUTOMATION SOLUTIONS – TIECHE Inc and : https://tiecheusa.com/website/test-automation-solutions/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:12:09",
+    "message" : "[Task-7]-New Page Created with no of objects :128 Page Name : BUSINESS PROCESS AUTOMATION – TIECHE Inc with URL : https://tiecheusa.com/website/business-process-automation/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:12:16",
+    "message" : "[Task-8]-New Page Created with no of objects :132 Page Name : CAREERS – TIECHE Inc with URL : https://tiecheusa.com/website/careers/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:12:23",
+    "message" : "[Task-9]-New Page Created with no of objects :132 Page Name : CONTACT US – TIECHE Inc with URL : https://tiecheusa.com/website/contacts/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:12:31",
+    "message" : "[Task-10]-New Page Created with no of objects :137 Page Name : TIECHE BLOG – TIECHE Inc with URL : https://tiecheusa.com/website/tiecheblog/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:12:37",
+    "message" : "[Task-11]-New Page Created with no of objects :129 Page Name : CUSTOMER PORTAL – TIECHE Inc with URL : https://tiecheusa.com/website/customer-portal/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:12:44",
+    "message" : "[Task-12]-New Page Created with no of objects :137 Page Name : TIECHE NEWS – TIECHE Inc with URL : https://tiecheusa.com/website/tiechenewspage/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:12:52",
+    "message" : "[Task-13]- Page already exists: Do not save.TIECHE Inc – Ingenuity in automation and : https://tiecheusa.com/website/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:12:58",
+    "message" : "[Task-14]- Page already exists: Do not save.TIECHE Inc – Ingenuity in automation and : https://tiecheusa.com/website/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:13:04",
+    "message" : "[Task-15]- Page already exists: Do not save.ABOUT US – TIECHE Inc and : https://tiecheusa.com/website/about-us/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:13:10",
+    "message" : "[Task-16]- Page already exists: Do not save.WHAT WE DO – TIECHE Inc and : https://tiecheusa.com/website/whatwedo/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:13:16",
+    "message" : "[Task-17]- Page already exists: Do not save.SMART BUILDING SOLUTIONS – TIECHE Inc and : https://tiecheusa.com/website/facility-automation-solutions-2/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:13:22",
+    "message" : "[Task-18]- Page already exists: Do not save.TEST AUTOMATION SOLUTIONS – TIECHE Inc and : https://tiecheusa.com/website/test-automation-solutions/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:13:27",
+    "message" : "[Task-19]- Page already exists: Do not save.BUSINESS PROCESS AUTOMATION – TIECHE Inc and : https://tiecheusa.com/website/business-process-automation/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:13:33",
+    "message" : "[Task-20]- Page already exists: Do not save.CAREERS – TIECHE Inc and : https://tiecheusa.com/website/careers/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:13:39",
+    "message" : "[Task-21]- Page already exists: Do not save.CONTACT US – TIECHE Inc and : https://tiecheusa.com/website/contacts/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:13:47",
+    "message" : "[Task-22]- Page already exists: Do not save.TIECHE BLOG – TIECHE Inc and : https://tiecheusa.com/website/tiecheblog/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:13:52",
+    "message" : "[Task-23]- Page already exists: Do not save.CUSTOMER PORTAL – TIECHE Inc and : https://tiecheusa.com/website/customer-portal/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:13:59",
+    "message" : "[Task-24]- Page already exists: Do not save.TIECHE NEWS – TIECHE Inc and : https://tiecheusa.com/website/tiechenewspage/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:14:16",
+    "message" : "[Task-26]- Page already exists: Do not save.TEST AUTOMATION SOLUTIONS – TIECHE Inc and : https://tiecheusa.com/website/test-automation-solutions/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:14:24",
+    "message" : "Started closing all the browser windows",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:14:25",
+    "message" : "Completed closing all browser windows",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2023/04/18 12:14:25",
+    "message" : "791 clickable objects identified",
+    "type" : "INFO"
+  } ]
+}
